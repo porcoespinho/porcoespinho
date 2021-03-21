@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @porcoespinho
 - 👀 I’m a product manager interested in full stack development
-- 🌱 I’m currently learning with Harvard's CS50’s Web Programming with Python and JavaScript
+- 🌱 I’m currently learning via https://cs50.harvard.edu/web/2020/
 - 📫 How to reach me: https://www.linkedin.com/in/luisrvargas/
 
 <!---
